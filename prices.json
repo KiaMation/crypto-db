@@ -279,6 +279,26 @@
             "price": 84364.0,
             "source": "Bitfinex",
             "timestamp": "2025-03-21 21:13:58 UTC"
+        },
+        {
+            "price": 84373.1386704021,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-21 21:26:53 UTC"
+        },
+        {
+            "price": 84344,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-21 21:26:53 UTC"
+        },
+        {
+            "price": 84388.0,
+            "source": "KuCoin",
+            "timestamp": "2025-03-21 21:26:53 UTC"
+        },
+        {
+            "price": 84503.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-03-21 21:26:53 UTC"
         }
     ],
     "ETH": [
@@ -561,6 +581,26 @@
             "price": 1977.4,
             "source": "Bitfinex",
             "timestamp": "2025-03-21 21:13:59 UTC"
+        },
+        {
+            "price": 1978.037794763007,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-21 21:26:53 UTC"
+        },
+        {
+            "price": 1976.41,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-21 21:26:53 UTC"
+        },
+        {
+            "price": 1976.97,
+            "source": "KuCoin",
+            "timestamp": "2025-03-21 21:26:54 UTC"
+        },
+        {
+            "price": 1978.1,
+            "source": "Bitfinex",
+            "timestamp": "2025-03-21 21:26:54 UTC"
         }
     ],
     "DOGE": [
@@ -773,6 +813,21 @@
             "price": 0.16936,
             "source": "KuCoin",
             "timestamp": "2025-03-21 21:14:00 UTC"
+        },
+        {
+            "price": 0.16938889155751533,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-21 21:26:54 UTC"
+        },
+        {
+            "price": 0.169263,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-21 21:26:54 UTC"
+        },
+        {
+            "price": 0.16917,
+            "source": "KuCoin",
+            "timestamp": "2025-03-21 21:26:54 UTC"
         }
     ]
 }
