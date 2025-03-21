@@ -25,17 +25,8 @@ jobs:
         run: |
           pip install -r requirements.txt  # این خط باعث می‌شود که پکیج‌های مورد نیاز شما از فایل requirements.txt نصب شوند.
 
-      # 4. مرحله چهارم: اضافه کردن تغییرات، کمیت کردن و پوش کردن
-      - name: Commit and push updates
-        run: |
-          git config --global user.name "mahkia89"  # نام شما برای کمیت‌ها
-          git config --global user.email "mahkiagolbashi@gmail.com"  # ایمیل شما برای کمیت‌ها
-
       - name: Run script to update GitHub data
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}  # ارسال توکن به کد پایتون به‌عنوان متغیر محیطی
-        run: |
-          python update_prices.py  # نام فایل پایتون شما
+        run: python update_prices.py  # نام فایل پایتون شما
           
       - name: Commit and push updates
         run: |
