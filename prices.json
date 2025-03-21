@@ -39,6 +39,26 @@
             "price": 84121.0,
             "source": "Bitfinex",
             "timestamp": "2025-03-21 19:30:07 UTC"
+        },
+        {
+            "price": 84069.46919363849,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-21 19:35:54 UTC"
+        },
+        {
+            "price": 83997,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-21 19:35:54 UTC"
+        },
+        {
+            "price": 83927.5,
+            "source": "KuCoin",
+            "timestamp": "2025-03-21 19:35:54 UTC"
+        },
+        {
+            "price": 84048.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-03-21 19:35:54 UTC"
         }
     ],
     "ETH": [
@@ -81,6 +101,26 @@
             "price": 1979.3,
             "source": "Bitfinex",
             "timestamp": "2025-03-21 19:30:08 UTC"
+        },
+        {
+            "price": 1975.729419743152,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-21 19:35:54 UTC"
+        },
+        {
+            "price": 1972.75,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-21 19:35:54 UTC"
+        },
+        {
+            "price": 1972.53,
+            "source": "KuCoin",
+            "timestamp": "2025-03-21 19:35:55 UTC"
+        },
+        {
+            "price": 1979.3,
+            "source": "Bitfinex",
+            "timestamp": "2025-03-21 19:35:55 UTC"
         }
     ],
     "DOGE": [
@@ -113,6 +153,21 @@
             "price": 0.16824,
             "source": "KuCoin",
             "timestamp": "2025-03-21 19:30:08 UTC"
+        },
+        {
+            "price": 0.16842268596929882,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-21 19:35:55 UTC"
+        },
+        {
+            "price": 0.168304,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-21 19:35:55 UTC"
+        },
+        {
+            "price": 0.1682,
+            "source": "KuCoin",
+            "timestamp": "2025-03-21 19:35:55 UTC"
         }
     ]
 }
