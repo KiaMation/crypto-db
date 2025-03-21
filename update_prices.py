@@ -23,7 +23,7 @@ COINS = {
         "CoinPaprika": "https://api.coinpaprika.com/v1/tickers/doge-dogecoin",
         "CoinGecko": "https://api.coingecko.com/api/v3/simple/price?ids=dogecoin&vs_currencies=usd",
         "KuCoin": "https://api.kucoin.com/api/v1/market/orderbook/level1?symbol=DOGE-USDT",
-        "Bitfinex": "https://api-pub.bitfinex.com/v2/ticker/tDOGEUSD"
+
     }
 }
 
