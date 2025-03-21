@@ -43,7 +43,7 @@ jobs:
           git config --global user.email "mahkiagolbashi@gmail.com"  # ایمیل شما برای کمیت‌ها
           git add .  # اضافه کردن همه تغییرات به مرحله staging
           git commit -m "Automated update"  # کمیت کردن تغییرات با پیغام خودکار
-          git push
+          git push https://github.com/mahkia89/crypto-db.git HEAD:main
 
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
