@@ -839,6 +839,26 @@
             "price": 84352.0,
             "source": "Bitfinex",
             "timestamp": "2025-03-22 04:46:10 UTC"
+        },
+        {
+            "price": 84329.15084901206,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-22 04:52:30 UTC"
+        },
+        {
+            "price": 84291,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-22 04:52:30 UTC"
+        },
+        {
+            "price": 84331.6,
+            "source": "KuCoin",
+            "timestamp": "2025-03-22 04:52:31 UTC"
+        },
+        {
+            "price": 84380.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-03-22 04:52:31 UTC"
         }
     ],
     "ETH": [
@@ -1681,6 +1701,26 @@
             "price": 1991.6,
             "source": "Bitfinex",
             "timestamp": "2025-03-22 04:46:10 UTC"
+        },
+        {
+            "price": 1989.503364001759,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-22 04:52:31 UTC"
+        },
+        {
+            "price": 1988.31,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-22 04:52:31 UTC"
+        },
+        {
+            "price": 1989.78,
+            "source": "KuCoin",
+            "timestamp": "2025-03-22 04:52:31 UTC"
+        },
+        {
+            "price": 1991.5,
+            "source": "Bitfinex",
+            "timestamp": "2025-03-22 04:52:31 UTC"
         }
     ],
     "DOGE": [
@@ -2313,6 +2353,21 @@
             "price": 0.16905,
             "source": "KuCoin",
             "timestamp": "2025-03-22 04:46:10 UTC"
+        },
+        {
+            "price": 0.16907622300482364,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-22 04:52:32 UTC"
+        },
+        {
+            "price": 0.169077,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-22 04:52:32 UTC"
+        },
+        {
+            "price": 0.16918,
+            "source": "KuCoin",
+            "timestamp": "2025-03-22 04:52:32 UTC"
         }
     ]
 }
