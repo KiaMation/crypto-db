@@ -4859,6 +4859,26 @@
             "price": 85398.0,
             "source": "Bitfinex",
             "timestamp": "2025-03-23 17:29:40 UTC"
+        },
+        {
+            "price": 85380.39712874539,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-23 17:37:44 UTC"
+        },
+        {
+            "price": 85119,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-23 17:37:44 UTC"
+        },
+        {
+            "price": 85144.7,
+            "source": "KuCoin",
+            "timestamp": "2025-03-23 17:37:45 UTC"
+        },
+        {
+            "price": 85231.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-03-23 17:37:45 UTC"
         }
     ],
     "ETH": [
@@ -9721,6 +9741,26 @@
             "price": 2003.8,
             "source": "Bitfinex",
             "timestamp": "2025-03-23 17:29:40 UTC"
+        },
+        {
+            "price": 2002.7750976225843,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-23 17:37:45 UTC"
+        },
+        {
+            "price": 1995.48,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-23 17:37:45 UTC"
+        },
+        {
+            "price": 1995.5,
+            "source": "KuCoin",
+            "timestamp": "2025-03-23 17:37:45 UTC"
+        },
+        {
+            "price": 1998.2,
+            "source": "Bitfinex",
+            "timestamp": "2025-03-23 17:37:45 UTC"
         }
     ],
     "DOGE": [
@@ -13368,6 +13408,21 @@
             "price": 0.17102,
             "source": "KuCoin",
             "timestamp": "2025-03-23 17:29:41 UTC"
+        },
+        {
+            "price": 0.1708686921786675,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-23 17:37:45 UTC"
+        },
+        {
+            "price": 0.170654,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-23 17:37:45 UTC"
+        },
+        {
+            "price": 0.17042,
+            "source": "KuCoin",
+            "timestamp": "2025-03-23 17:37:46 UTC"
         }
     ]
 }
