@@ -10339,6 +10339,26 @@
             "price": 87483.0,
             "source": "Bitfinex",
             "timestamp": "2025-03-26 04:58:31 UTC"
+        },
+        {
+            "price": 87343.8312497953,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-26 05:15:29 UTC"
+        },
+        {
+            "price": 87312,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-26 05:15:29 UTC"
+        },
+        {
+            "price": 87265.3,
+            "source": "KuCoin",
+            "timestamp": "2025-03-26 05:15:29 UTC"
+        },
+        {
+            "price": 87467.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-03-26 05:15:29 UTC"
         }
     ],
     "ETH": [
@@ -20681,6 +20701,26 @@
             "price": 2055.8,
             "source": "Bitfinex",
             "timestamp": "2025-03-26 04:58:32 UTC"
+        },
+        {
+            "price": 2054.6407427054583,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-26 05:15:29 UTC"
+        },
+        {
+            "price": 2052.22,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-26 05:15:29 UTC"
+        },
+        {
+            "price": 2052.18,
+            "source": "KuCoin",
+            "timestamp": "2025-03-26 05:15:29 UTC"
+        },
+        {
+            "price": 2054.7,
+            "source": "Bitfinex",
+            "timestamp": "2025-03-26 05:15:29 UTC"
         }
     ],
     "DOGE": [
@@ -28438,6 +28478,21 @@
             "price": 0.19107,
             "source": "KuCoin",
             "timestamp": "2025-03-26 04:58:32 UTC"
+        },
+        {
+            "price": 0.19130184636569283,
+            "source": "CoinPaprika",
+            "timestamp": "2025-03-26 05:15:29 UTC"
+        },
+        {
+            "price": 0.191053,
+            "source": "CoinGecko",
+            "timestamp": "2025-03-26 05:15:30 UTC"
+        },
+        {
+            "price": 0.19083,
+            "source": "KuCoin",
+            "timestamp": "2025-03-26 05:15:30 UTC"
         }
     ]
 }
