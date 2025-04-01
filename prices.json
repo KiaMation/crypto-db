@@ -25719,6 +25719,26 @@
             "price": 85344.0,
             "source": "Bitfinex",
             "timestamp": "2025-04-01 22:09:46 UTC"
+        },
+        {
+            "price": 85309.71210145912,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-01 22:30:43 UTC"
+        },
+        {
+            "price": 85236,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-01 22:30:43 UTC"
+        },
+        {
+            "price": 85185.7,
+            "source": "KuCoin",
+            "timestamp": "2025-04-01 22:30:43 UTC"
+        },
+        {
+            "price": 85241.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-01 22:30:44 UTC"
         }
     ],
     "ETH": [
@@ -51441,6 +51461,26 @@
             "price": 1914.9,
             "source": "Bitfinex",
             "timestamp": "2025-04-01 22:09:46 UTC"
+        },
+        {
+            "price": 1917.0239478497972,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-01 22:30:44 UTC"
+        },
+        {
+            "price": 1914.06,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-01 22:30:44 UTC"
+        },
+        {
+            "price": 1917.37,
+            "source": "KuCoin",
+            "timestamp": "2025-04-01 22:30:44 UTC"
+        },
+        {
+            "price": 1917.9,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-01 22:30:44 UTC"
         }
     ],
     "DOGE": [
@@ -70733,6 +70773,21 @@
             "price": 0.17357,
             "source": "KuCoin",
             "timestamp": "2025-04-01 22:09:46 UTC"
+        },
+        {
+            "price": 0.17408755495278658,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-01 22:30:44 UTC"
+        },
+        {
+            "price": 0.173899,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-01 22:30:44 UTC"
+        },
+        {
+            "price": 0.17403,
+            "source": "KuCoin",
+            "timestamp": "2025-04-01 22:30:45 UTC"
         }
     ]
 }
