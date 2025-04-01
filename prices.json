@@ -25059,6 +25059,26 @@
             "price": 85158.0,
             "source": "Bitfinex",
             "timestamp": "2025-04-01 16:20:52 UTC"
+        },
+        {
+            "price": 84998.60526559218,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-01 16:41:32 UTC"
+        },
+        {
+            "price": 84962,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-01 16:41:32 UTC"
+        },
+        {
+            "price": 85098.6,
+            "source": "KuCoin",
+            "timestamp": "2025-04-01 16:41:32 UTC"
+        },
+        {
+            "price": 85084.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-01 16:41:32 UTC"
         }
     ],
     "ETH": [
@@ -50121,6 +50141,26 @@
             "price": 1917.8,
             "source": "Bitfinex",
             "timestamp": "2025-04-01 16:20:53 UTC"
+        },
+        {
+            "price": 1917.0801411026243,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-01 16:41:32 UTC"
+        },
+        {
+            "price": 1913.18,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-01 16:41:33 UTC"
+        },
+        {
+            "price": 1913.3,
+            "source": "KuCoin",
+            "timestamp": "2025-04-01 16:41:33 UTC"
+        },
+        {
+            "price": 1912.1,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-01 16:41:33 UTC"
         }
     ],
     "DOGE": [
@@ -68918,6 +68958,21 @@
             "price": 0.17414,
             "source": "KuCoin",
             "timestamp": "2025-04-01 16:20:53 UTC"
+        },
+        {
+            "price": 0.1737003732897515,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-01 16:41:33 UTC"
+        },
+        {
+            "price": 0.173305,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-01 16:41:33 UTC"
+        },
+        {
+            "price": 0.17352,
+            "source": "KuCoin",
+            "timestamp": "2025-04-01 16:41:33 UTC"
         }
     ]
 }
