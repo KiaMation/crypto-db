@@ -2,38 +2,38 @@ name: Auto Push Updates
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # این خط کد باعث می‌شود که این Action هر 5 دقیقه یک‌بار اجرا شود.
-  workflow_dispatch:  # این گزینه اجازه می‌دهد تا workflow به‌صورت دستی نیز اجرا شود.
+    - cron: '*/5 * * * *'  
+  workflow_dispatch:  
 
 jobs:
   update-repo:
-    runs-on: ubuntu-latest  # سیستم عامل که برای اجرای این job استفاده می‌شود (در اینجا اوبونتو).
+    runs-on: ubuntu-latest 
 
     steps:
-      # 1. مرحله اول: Checkout کردن کد از گیت‌هاب
+     
       - name: Checkout repository
-        uses: actions/checkout@v2  # این خط باعث می‌شود که کد شما از ریپازیتوری گیت‌هاب به سیستم محلی در این اکشن کشیده شود.
+        uses: actions/checkout@v2  
 
-      # 2. مرحله دوم: تنظیم محیط پایتون (نسخه 3.x)
+     
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.9'  # نسخه پایتون مورد نظر شما
+          python-version: '3.9' 
 
-      # 3. مرحله سوم: نصب وابستگی‌ها (اگر فایل requirements.txt دارید)
+     
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt  # این خط باعث می‌شود که پکیج‌های مورد نیاز شما از فایل requirements.txt نصب شوند.
+          pip install -r requirements.txt  
 
       - name: Run script to update GitHub data
-        run: python update_prices.py  # نام فایل پایتون شما
+        run: python update_prices.py  
           
       - name: Commit and push updates
         run: |
-          git config --global user.name "mahkia89"  # نام شما برای کمیت‌ها
-          git config --global user.email "mahkiagolbashi@gmail.com"  # ایمیل شما برای کمیت‌ها
+          git config --global user.name "mahkia89"  
+          git config --global user.email "mahkiagolbashi@gmail.com" 
           git add .  # add all changes to staging area
-          git commit -m "Automated update"  # کمیت کردن تغییرات با پیغام خودکار
+          git commit -m "Automated update"  
           git push 
 
         env:
