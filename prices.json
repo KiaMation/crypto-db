@@ -29939,6 +29939,21 @@
             "price": 82590.0,
             "source": "Bitfinex",
             "timestamp": "2025-04-03 21:28:04 UTC"
+        },
+        {
+            "price": 82553.42688020664,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-03 21:36:02 UTC"
+        },
+        {
+            "price": 82432.9,
+            "source": "KuCoin",
+            "timestamp": "2025-04-03 21:36:02 UTC"
+        },
+        {
+            "price": 82464.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-03 21:36:02 UTC"
         }
     ],
     "ETH": [
@@ -59881,6 +59896,21 @@
             "price": 1803.1,
             "source": "Bitfinex",
             "timestamp": "2025-04-03 21:28:04 UTC"
+        },
+        {
+            "price": 1802.281481937202,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-03 21:36:02 UTC"
+        },
+        {
+            "price": 1800.45,
+            "source": "KuCoin",
+            "timestamp": "2025-04-03 21:36:02 UTC"
+        },
+        {
+            "price": 1800.1,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-03 21:36:03 UTC"
         }
     ],
     "DOGE": [
@@ -82338,6 +82368,16 @@
             "price": 0.15952,
             "source": "KuCoin",
             "timestamp": "2025-04-03 21:28:05 UTC"
+        },
+        {
+            "price": 0.15952603310888622,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-03 21:36:03 UTC"
+        },
+        {
+            "price": 0.15927,
+            "source": "KuCoin",
+            "timestamp": "2025-04-03 21:36:03 UTC"
         }
     ]
 }
