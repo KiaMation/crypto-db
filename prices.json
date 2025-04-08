@@ -40554,6 +40554,26 @@
             "price": 79889.0,
             "source": "Bitfinex",
             "timestamp": "2025-04-08 13:07:14 UTC"
+        },
+        {
+            "price": 80219.11600630597,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-08 13:35:29 UTC"
+        },
+        {
+            "price": 80074,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-08 13:35:29 UTC"
+        },
+        {
+            "price": 79965.8,
+            "source": "KuCoin",
+            "timestamp": "2025-04-08 13:35:29 UTC"
+        },
+        {
+            "price": 80038.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-08 13:35:29 UTC"
         }
     ],
     "ETH": [
@@ -81111,6 +81131,26 @@
             "price": 1572.1,
             "source": "Bitfinex",
             "timestamp": "2025-04-08 13:07:14 UTC"
+        },
+        {
+            "price": 1583.2393298464044,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-08 13:35:30 UTC"
+        },
+        {
+            "price": 1578.86,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-08 13:35:30 UTC"
+        },
+        {
+            "price": 1578.57,
+            "source": "KuCoin",
+            "timestamp": "2025-04-08 13:35:30 UTC"
+        },
+        {
+            "price": 1579.1,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-08 13:35:30 UTC"
         }
     ],
     "DOGE": [
@@ -111528,6 +111568,21 @@
             "price": 0.15365,
             "source": "KuCoin",
             "timestamp": "2025-04-08 13:07:14 UTC"
+        },
+        {
+            "price": 0.15501318514173773,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-08 13:35:30 UTC"
+        },
+        {
+            "price": 0.154576,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-08 13:35:30 UTC"
+        },
+        {
+            "price": 0.15483,
+            "source": "KuCoin",
+            "timestamp": "2025-04-08 13:35:30 UTC"
         }
     ]
 }
