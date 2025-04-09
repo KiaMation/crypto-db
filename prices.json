@@ -43194,6 +43194,26 @@
             "price": 82380.0,
             "source": "Bitfinex",
             "timestamp": "2025-04-09 19:29:09 UTC"
+        },
+        {
+            "price": 82429.89875008675,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-09 19:36:41 UTC"
+        },
+        {
+            "price": 82446,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-09 19:36:41 UTC"
+        },
+        {
+            "price": 82411.3,
+            "source": "KuCoin",
+            "timestamp": "2025-04-09 19:36:41 UTC"
+        },
+        {
+            "price": 82434.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-09 19:36:42 UTC"
         }
     ],
     "ETH": [
@@ -86391,6 +86411,26 @@
             "price": 1639.7,
             "source": "Bitfinex",
             "timestamp": "2025-04-09 19:29:09 UTC"
+        },
+        {
+            "price": 1640.7746332115444,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-09 19:36:42 UTC"
+        },
+        {
+            "price": 1641.53,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-09 19:36:42 UTC"
+        },
+        {
+            "price": 1638.2,
+            "source": "KuCoin",
+            "timestamp": "2025-04-09 19:36:42 UTC"
+        },
+        {
+            "price": 1639.4,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-09 19:36:43 UTC"
         }
     ],
     "DOGE": [
@@ -118788,6 +118828,21 @@
             "price": 0.16062,
             "source": "KuCoin",
             "timestamp": "2025-04-09 19:29:10 UTC"
+        },
+        {
+            "price": 0.16078343249947488,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-09 19:36:43 UTC"
+        },
+        {
+            "price": 0.1605,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-09 19:36:43 UTC"
+        },
+        {
+            "price": 0.16018,
+            "source": "KuCoin",
+            "timestamp": "2025-04-09 19:36:43 UTC"
         }
     ]
 }
