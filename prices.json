@@ -42374,6 +42374,26 @@
             "price": 77520.0,
             "source": "Bitfinex",
             "timestamp": "2025-04-09 09:55:31 UTC"
+        },
+        {
+            "price": 77332.74858880907,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-09 10:12:14 UTC"
+        },
+        {
+            "price": 77379,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-09 10:12:14 UTC"
+        },
+        {
+            "price": 77428.1,
+            "source": "KuCoin",
+            "timestamp": "2025-04-09 10:12:15 UTC"
+        },
+        {
+            "price": 77510.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-09 10:12:15 UTC"
         }
     ],
     "ETH": [
@@ -84751,6 +84771,26 @@
             "price": 1480.1,
             "source": "Bitfinex",
             "timestamp": "2025-04-09 09:55:32 UTC"
+        },
+        {
+            "price": 1476.2414043355539,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-09 10:12:15 UTC"
+        },
+        {
+            "price": 1477.7,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-09 10:12:15 UTC"
+        },
+        {
+            "price": 1479.63,
+            "source": "KuCoin",
+            "timestamp": "2025-04-09 10:12:16 UTC"
+        },
+        {
+            "price": 1480.6,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-09 10:12:16 UTC"
         }
     ],
     "DOGE": [
@@ -116533,6 +116573,21 @@
             "price": 0.14647,
             "source": "KuCoin",
             "timestamp": "2025-04-09 09:55:32 UTC"
+        },
+        {
+            "price": 0.14611983085995278,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-09 10:12:16 UTC"
+        },
+        {
+            "price": 0.146235,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-09 10:12:16 UTC"
+        },
+        {
+            "price": 0.14637,
+            "source": "KuCoin",
+            "timestamp": "2025-04-09 10:12:16 UTC"
         }
     ]
 }
