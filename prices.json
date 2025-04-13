@@ -52594,6 +52594,26 @@
             "price": 83314.0,
             "source": "Bitfinex",
             "timestamp": "2025-04-13 22:51:13 UTC"
+        },
+        {
+            "price": 83295.65720439739,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-13 22:57:17 UTC"
+        },
+        {
+            "price": 83344,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-13 22:57:17 UTC"
+        },
+        {
+            "price": 83510.9,
+            "source": "KuCoin",
+            "timestamp": "2025-04-13 22:57:18 UTC"
+        },
+        {
+            "price": 83427.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-13 22:57:18 UTC"
         }
     ],
     "ETH": [
@@ -105191,6 +105211,26 @@
             "price": 1587.4,
             "source": "Bitfinex",
             "timestamp": "2025-04-13 22:51:13 UTC"
+        },
+        {
+            "price": 1587.1868320078438,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-13 22:57:18 UTC"
+        },
+        {
+            "price": 1587.78,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-13 22:57:18 UTC"
+        },
+        {
+            "price": 1590.88,
+            "source": "KuCoin",
+            "timestamp": "2025-04-13 22:57:18 UTC"
+        },
+        {
+            "price": 1588.1,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-13 22:57:18 UTC"
         }
     ],
     "DOGE": [
@@ -144638,6 +144678,21 @@
             "price": 0.16233,
             "source": "KuCoin",
             "timestamp": "2025-04-13 22:51:14 UTC"
+        },
+        {
+            "price": 0.16199283986233823,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-13 22:57:18 UTC"
+        },
+        {
+            "price": 0.16219,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-13 22:57:18 UTC"
+        },
+        {
+            "price": 0.16242,
+            "source": "KuCoin",
+            "timestamp": "2025-04-13 22:57:19 UTC"
         }
     ]
 }
