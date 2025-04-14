@@ -53414,6 +53414,26 @@
             "price": 84401.0,
             "source": "Bitfinex",
             "timestamp": "2025-04-14 10:17:05 UTC"
+        },
+        {
+            "price": 84690.54552102777,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-14 10:39:43 UTC"
+        },
+        {
+            "price": 84610,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-14 10:39:43 UTC"
+        },
+        {
+            "price": 84559.5,
+            "source": "KuCoin",
+            "timestamp": "2025-04-14 10:39:43 UTC"
+        },
+        {
+            "price": 84541.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-14 10:39:43 UTC"
         }
     ],
     "ETH": [
@@ -106831,6 +106851,26 @@
             "price": 1652.4,
             "source": "Bitfinex",
             "timestamp": "2025-04-14 10:17:05 UTC"
+        },
+        {
+            "price": 1662.7468785717829,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-14 10:39:43 UTC"
+        },
+        {
+            "price": 1665.43,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-14 10:39:43 UTC"
+        },
+        {
+            "price": 1666.17,
+            "source": "KuCoin",
+            "timestamp": "2025-04-14 10:39:44 UTC"
+        },
+        {
+            "price": 1664.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-04-14 10:39:44 UTC"
         }
     ],
     "DOGE": [
@@ -146893,6 +146933,21 @@
             "price": 0.16394,
             "source": "KuCoin",
             "timestamp": "2025-04-14 10:17:05 UTC"
+        },
+        {
+            "price": 0.16480476901435662,
+            "source": "CoinPaprika",
+            "timestamp": "2025-04-14 10:39:44 UTC"
+        },
+        {
+            "price": 0.164549,
+            "source": "CoinGecko",
+            "timestamp": "2025-04-14 10:39:44 UTC"
+        },
+        {
+            "price": 0.16443,
+            "source": "KuCoin",
+            "timestamp": "2025-04-14 10:39:44 UTC"
         }
     ]
 }
