@@ -195109,6 +195109,26 @@
             "price": 99779.0,
             "source": "Bitfinex",
             "timestamp": "2025-06-22 18:51:53 UTC"
+        },
+        {
+            "price": 99677.3213231489,
+            "source": "CoinPaprika",
+            "timestamp": "2025-06-22 18:57:44 UTC"
+        },
+        {
+            "price": 99621,
+            "source": "CoinGecko",
+            "timestamp": "2025-06-22 18:57:44 UTC"
+        },
+        {
+            "price": 99529.2,
+            "source": "KuCoin",
+            "timestamp": "2025-06-22 18:57:44 UTC"
+        },
+        {
+            "price": 99722.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-06-22 18:57:45 UTC"
         }
     ],
     "ETH": [
@@ -390221,6 +390241,26 @@
             "price": 2196.0,
             "source": "Bitfinex",
             "timestamp": "2025-06-22 18:51:53 UTC"
+        },
+        {
+            "price": 2193.123111600041,
+            "source": "CoinPaprika",
+            "timestamp": "2025-06-22 18:57:45 UTC"
+        },
+        {
+            "price": 2189.46,
+            "source": "CoinGecko",
+            "timestamp": "2025-06-22 18:57:45 UTC"
+        },
+        {
+            "price": 2182.99,
+            "source": "KuCoin",
+            "timestamp": "2025-06-22 18:57:45 UTC"
+        },
+        {
+            "price": 2185.9,
+            "source": "Bitfinex",
+            "timestamp": "2025-06-22 18:57:45 UTC"
         }
     ],
     "DOGE": [
@@ -536548,6 +536588,21 @@
             "price": 0.14933,
             "source": "KuCoin",
             "timestamp": "2025-06-22 18:51:53 UTC"
+        },
+        {
+            "price": 0.14951916033938123,
+            "source": "CoinPaprika",
+            "timestamp": "2025-06-22 18:57:45 UTC"
+        },
+        {
+            "price": 0.149261,
+            "source": "CoinGecko",
+            "timestamp": "2025-06-22 18:57:45 UTC"
+        },
+        {
+            "price": 0.14869,
+            "source": "KuCoin",
+            "timestamp": "2025-06-22 18:57:45 UTC"
         }
     ]
 }
