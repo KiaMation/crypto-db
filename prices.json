@@ -253599,6 +253599,26 @@
             "price": 118270.0,
             "source": "Bitfinex",
             "timestamp": "2025-07-27 03:28:51 UTC"
+        },
+        {
+            "price": 118179.05346424002,
+            "source": "CoinPaprika",
+            "timestamp": "2025-07-27 04:28:22 UTC"
+        },
+        {
+            "price": 118264,
+            "source": "CoinGecko",
+            "timestamp": "2025-07-27 04:28:23 UTC"
+        },
+        {
+            "price": 118246.5,
+            "source": "KuCoin",
+            "timestamp": "2025-07-27 04:28:23 UTC"
+        },
+        {
+            "price": 118350.0,
+            "source": "Bitfinex",
+            "timestamp": "2025-07-27 04:28:23 UTC"
         }
     ],
     "ETH": [
@@ -507206,6 +507226,26 @@
             "price": 3778.7,
             "source": "Bitfinex",
             "timestamp": "2025-07-27 03:28:51 UTC"
+        },
+        {
+            "price": 3771.237258947665,
+            "source": "CoinPaprika",
+            "timestamp": "2025-07-27 04:28:23 UTC"
+        },
+        {
+            "price": 3774.86,
+            "source": "CoinGecko",
+            "timestamp": "2025-07-27 04:28:23 UTC"
+        },
+        {
+            "price": 3774.52,
+            "source": "KuCoin",
+            "timestamp": "2025-07-27 04:28:23 UTC"
+        },
+        {
+            "price": 3778.9,
+            "source": "Bitfinex",
+            "timestamp": "2025-07-27 04:28:23 UTC"
         }
     ],
     "DOGE": [
@@ -697403,6 +697443,21 @@
             "price": 0.23916,
             "source": "KuCoin",
             "timestamp": "2025-07-27 03:28:52 UTC"
+        },
+        {
+            "price": 0.23905900569233668,
+            "source": "CoinPaprika",
+            "timestamp": "2025-07-27 04:28:23 UTC"
+        },
+        {
+            "price": 0.239264,
+            "source": "CoinGecko",
+            "timestamp": "2025-07-27 04:28:23 UTC"
+        },
+        {
+            "price": 0.23948,
+            "source": "KuCoin",
+            "timestamp": "2025-07-27 04:28:24 UTC"
         }
     ]
 }
