@@ -722514,6 +722514,26 @@
             "price": 78003.0,
             "source": "Bitfinex",
             "timestamp": "2026-11-01 06:34:42 UTC"
+        },
+        {
+            "price": 77866.30120794034,
+            "source": "CoinPaprika",
+            "timestamp": "2026-11-01 13:43:41 UTC"
+        },
+        {
+            "price": 77892,
+            "source": "CoinGecko",
+            "timestamp": "2026-11-01 13:43:41 UTC"
+        },
+        {
+            "price": 77949.1,
+            "source": "KuCoin",
+            "timestamp": "2026-11-01 13:43:41 UTC"
+        },
+        {
+            "price": 78000.0,
+            "source": "Bitfinex",
+            "timestamp": "2026-11-01 13:43:42 UTC"
         }
     ],
     "ETH": [
@@ -1445011,6 +1445031,26 @@
             "price": 2270.8,
             "source": "Bitfinex",
             "timestamp": "2026-11-01 06:34:43 UTC"
+        },
+        {
+            "price": 2264.828089316769,
+            "source": "CoinPaprika",
+            "timestamp": "2026-11-01 13:43:42 UTC"
+        },
+        {
+            "price": 2264.78,
+            "source": "CoinGecko",
+            "timestamp": "2026-11-01 13:43:42 UTC"
+        },
+        {
+            "price": 2266.79,
+            "source": "KuCoin",
+            "timestamp": "2026-11-01 13:43:42 UTC"
+        },
+        {
+            "price": 2268.4,
+            "source": "Bitfinex",
+            "timestamp": "2026-11-01 13:43:42 UTC"
         }
     ],
     "DOGE": [
@@ -1986793,6 +1986833,21 @@
             "price": 0.07584,
             "source": "KuCoin",
             "timestamp": "2026-11-01 06:34:43 UTC"
+        },
+        {
+            "price": 0.07564984871082911,
+            "source": "CoinPaprika",
+            "timestamp": "2026-11-01 13:43:42 UTC"
+        },
+        {
+            "price": 0.07568,
+            "source": "CoinGecko",
+            "timestamp": "2026-11-01 13:43:42 UTC"
+        },
+        {
+            "price": 0.07571,
+            "source": "KuCoin",
+            "timestamp": "2026-11-01 13:43:42 UTC"
         }
     ]
 }
